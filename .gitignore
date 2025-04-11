@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# macOS system files
+.DS_Store
+
+# IDEs/editors
+.vscode/
+.idea/
+
+# Test artifacts
+*.log
+
+# Image backups or junk
+*.tmp

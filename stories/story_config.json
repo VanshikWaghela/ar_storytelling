@@ -1,0 +1,26 @@
+{
+  "story_title": "The Magical Forest",
+  "scenes": [
+    {
+      "id": 1,
+      "background": "assets/story1/scene1.jpeg",
+      "overlay": null,
+      "text": "You enter a quiet forest. The trees seem to whisper secrets.",
+      "gesture": "open_palm"
+    },
+    {
+      "id": 2,
+      "background": "assets/story1/scene2.jpg",
+      "overlay": "assets/story1/overlay1.png.webp",
+      "text": "A glowing fairy appears before you, offering help.",
+      "gesture": "thumbs_up"
+    },
+    {
+      "id": 3,
+      "background": "assets/story1/scene3.jpg",
+      "overlay": null,
+      "text": "A dragon roars in the distance... it's your next challenge.",
+      "gesture": "victory"
+    }
+  ]
+}
